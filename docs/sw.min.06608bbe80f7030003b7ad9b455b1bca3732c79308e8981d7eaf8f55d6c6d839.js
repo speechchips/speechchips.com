@@ -1,1 +1,0 @@
-if(navigator.serviceWorker){navigator.serviceWorker.register("/speechchips.com/sw.js",{scope:"/speechchips.com/"});}
