@@ -1,6 +1,11 @@
 publishDir = "docs"
 
+# Github Page: https://speechchips.github.io/speechchips.com/
 baseURL = 'https://speechchips.github.io/'
+
+# After Github Custom Domain is Configured:
+# baseURL = 'https://speechchips.com/'
+
 title = 'SPEECHCHIPS.COM'
 theme = 'book'
 relativeURLs = true
