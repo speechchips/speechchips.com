@@ -1,0 +1,15 @@
+{
+  "name": "SPEECHCHIPS.COM",
+  "short_name": "SPEECHCHIPS.COM",
+  "start_url": "/speechchips.com/",
+  "scope": "/speechchips.com/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/speechchips.com/favicon.svg",
+      "sizes": "512x512"
+    }
+  ]
+}
