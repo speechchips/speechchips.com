@@ -1,6 +1,6 @@
 publishDir = "docs"
 
-baseURL = 'https://speechchips.github.io/speechchips.com/'
+baseURL = 'https://speechchips.github.io/'
 title = 'SPEECHCHIPS.COM'
 theme = 'book'
 relativeURLs = true
