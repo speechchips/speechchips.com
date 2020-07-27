@@ -1,8 +1,9 @@
 publishDir = "docs"
 
-baseURL = 'https://speechchips.com/'
+baseURL = 'https://speechchips.github.io/speechchips.com/'
 title = 'SPEECHCHIPS.COM'
 theme = 'book'
+relativeURLs = true
 
 # Book configuration
 disablePathToLower = true
@@ -45,7 +46,7 @@ enableGitInfo = true
 
   # (Optional, default none) Set the path to a logo for the book. If the logo is
   # /static/logo.png then the path would be logo.png
-  BookLogo = '/images/speechchip_logo.png'
+  BookLogo = 'images/speechchip_logo.png'
 
   # (Optional, default none) Set leaf bundle to render as side menu
   # When not specified file structure and weights will be used
