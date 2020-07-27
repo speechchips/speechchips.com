@@ -1,0 +1,19 @@
+/* You can add custom styles here. */
+
+.book-brand {
+   img {
+      height: auto;
+   }
+}
+
+img[src$='#floatleft']
+{
+   float:left;
+   padding: 15px;
+}
+
+img[src$='#floatright']
+{
+   float:right;
+   padding: 15px;
+}
