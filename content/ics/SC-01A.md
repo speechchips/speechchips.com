@@ -12,7 +12,7 @@ tags:
 # - 
 ---
 
-# Votrax SC-01A
+# Votrax SC-01A 
 
 The SC-01 Speech Synthesizer is a completely self-contained solid state device.  This single chip phonetically synthesizes continuous speech, of unlimited vocabulary, form low data rate inputs. 
 
