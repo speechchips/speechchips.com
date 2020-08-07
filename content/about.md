@@ -13,7 +13,7 @@ Joe reached out to Ken, and after a few allophones and phonemes that were exchan
 
 {{< columns >}}
 <figure>
-<img src="/images/kenneth_lemieux.png#floatright" width="200"/>
+<img src="/images/kenneth_lemieux.png" width="200"/>
 <figcaption>
 <h2>Ken Lemieux</h2>
 </figcaption>
@@ -25,7 +25,7 @@ OK, so I have trouble focusing. What started out 20 years ago as a search for SP
 
 <--->
 <figure>
-<img src="/images/joseph_hsieh.png#floatright" width="200"/>
+<img src="/images/joseph_hsieh.png" width="200"/>
 <figcaption>
 <h2>Joseph Hsieh</h2>
 </figcaption>
