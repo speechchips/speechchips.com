@@ -7,7 +7,12 @@ date: {{ .Date }}
 weight: 10
 keywords: 
 description: 
+pincount: 
+method: 
+manufacturer: 
+inventor: 
+ic_image_url: 
 tags: 
-# -  
+# - 
 # - 
 ---
