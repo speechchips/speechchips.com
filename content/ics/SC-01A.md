@@ -17,9 +17,16 @@ tags:
 # - 
 ---
 
-# SC-01A Votrax
+# SC-01A
+* Manufacturer: Votrax
+* Pin Count: 22
+* Method: Analog Formant
+* Inventor: Richard T. Gagnon
+
+{{< button href="https://groups.io/g/speechchips/topic/votrax_sc_01_datasheet/76266227" >}}Datasheet{{< /button >}}
 
 ## Features 
+
 {{< columns >}}
 * Single CMOS chip
 * 70 bits per second
