@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Integrated Chip (IC) on SPEECHCHIPS.COM</title>
+    <link>https://speechchips.github.io/ics/</link>
+    <description>Recent content in Integrated Chip (IC) on SPEECHCHIPS.COM</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="https://speechchips.github.io/ics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SC-01A</title>
+      <link>https://speechchips.github.io/ics/SC-01A/</link>
+      <pubDate>Mon, 27 Jul 2020 16:22:07 -0700</pubDate>
+      
+      <guid>https://speechchips.github.io/ics/SC-01A/</guid>
+      <description>SC-01A #   Manufacturer: Votrax Pin Count: 22 Method: Analog Formant Inventor: Richard T. Gagnon  Datasheet  Features #   Single CMOS chip 70 bits per second 22 pin package 9 ma. current drain Wide voltage supply range Latched 5V. compatible inputs    Digital pitch level inputs Automatic inflection On-chip master clock circuit Optional external master clock Variety of voice effects Sound effects    Manufacturer Description #  The SC-01 Speech Synthesizer is a completely self-contained solid state device.</description>
+    </item>
+    
+    <item>
+      <title>SP0256 AL2</title>
+      <link>https://speechchips.github.io/ics/SP0256-AL2/</link>
+      <pubDate>Mon, 27 Jul 2020 16:29:49 -0700</pubDate>
+      
+      <guid>https://speechchips.github.io/ics/SP0256-AL2/</guid>
+      <description>SP0256-AL2 #   Manufacturer: General Instruments Pin Count: 28 Method: LPC12 Inventor: William A. Barton, John E. Stark    The SP0256-AL2, also known as the &amp;ldquo;SPO256 Narrator Speech Processor&amp;rdquo;, produces all 59 phonemes of the English language plus 5 pauses of different durations. It&amp;rsquo;s part of the general &amp;ldquo;SP0&amp;rdquo; family and has many variants. Each of the phoneme&amp;rsquo;s speech patterns are individually addressable, making the SP0256-AL2 capable of saying anything that can be said in the English language.</description>
+    </item>
+    
+  </channel>
+</rss>

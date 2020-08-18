@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Updates on SPEECHCHIPS.COM</title>
+    <link>https://speechchips.github.io/posts/</link>
+    <description>Recent content in Updates on SPEECHCHIPS.COM</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="https://speechchips.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First Contact</title>
+      <link>https://speechchips.github.io/posts/first-contact/</link>
+      <pubDate>Sat, 01 Aug 2020 05:34:49 -0700</pubDate>
+      
+      <guid>https://speechchips.github.io/posts/first-contact/</guid>
+      <description>Hello,
+I&amp;rsquo;m posting this as the first &amp;ldquo;Update Post&amp;rdquo; to this site to start things off. After talking to Ken Lemieux, who was the original creator of speechchips.com, I convinced him to turn speechchips.com into a resource for this small but vocal niche. My goal is to put everything I find in one place as many of my findings were strewn across the internet in old forum posts, blogs, archived newsgroups, and even historical snapshots of websites from archive.</description>
+    </item>
+    
+  </channel>
+</rss>
