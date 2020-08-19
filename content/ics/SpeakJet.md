@@ -3,7 +3,7 @@ title: "SpeakJet"
 author: ""
 date: 2020-08-18T14:18:32-07:00
 aliases: 
-   - /shop/item.aspx
+   - /shop/item.aspx?itemid=2
 # next: /path/next-post
 # prev: /path/prev-post
 weight: 10
