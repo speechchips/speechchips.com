@@ -15,15 +15,17 @@ ic_image: https://cdn.familab.org/wp-content/uploads/2011/08/votrax_SC-01-A.jpg
 tags: 
 # -  
 # - 
----
+--- 
 
 # SC-01A
+{{< columns >}}
 * Manufacturer: Votrax
 * Pin Count: 22
 * Method: Analog Formant
 * Inventor: Richard T. Gagnon
-
+<--->
 {{< button href="https://groups.io/g/speechchips/topic/votrax_sc_01_datasheet/76266227" >}}Datasheet{{< /button >}}
+{{< /columns >}}
 
 ## Features 
 
