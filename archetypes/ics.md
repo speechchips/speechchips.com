@@ -16,3 +16,20 @@ tags:
 # - 
 # - 
 ---
+
+# {{ .Name }}
+* Manufacturer: 
+* Pin Count: 
+* Method: 
+* Inventor:  
+
+## Features
+{{< columns >}}
+*
+*
+<--->
+*
+*
+{{< /columns >}}
+
+## Manufacturer Description
