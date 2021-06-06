@@ -11,7 +11,7 @@ pincount: 22
 method: Analog Formant
 manufacturer: Votrax
 inventor: Richard T. Gagnon
-ic_image: https://cdn.familab.org/wp-content/uploads/2011/08/votrax_SC-01-A.jpg 
+ic_image_url: https://cdn.familab.org/wp-content/uploads/2011/08/votrax_SC-01-A.jpg 
 tags: 
 # -  
 # - 
